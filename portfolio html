@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PERSONAL PORTFOLIO</title>
+    <link rel="stylesheet" href="portfolio.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
+<body>
+<!--------------header----------->
+<div id="header">
+    <div class="header">
+        <div class="container">
+            <nav>
+                <p>PERSONAL PORTFOLIO</p>
+                <ul>
+                    <li><a href="#header">HOME</a></li>
+                    <li><a href="#about">ABOUT</a></li>
+                    <li><a href="#skills">SKILLS</a></li> 
+                    <li> <a href="#experience">EXPERIENCE</a></li> 
+                    <li> <a href="#education">EDUCATION</a></li> 
+                    <li><a href="#contact">CONTACT</a></li>
+                </ul>    
+            </nav> 
+        </div>
+    </div>
+    <div class="header-text">
+        <p>
+            <h1>UDAYAGIRI FOWJIYA</h1>
+            <span>PASSIONATE FRONT END DEVELOPER</span>
+            <br>
+            <p class="description">
+                I am Front End Developer,Crafting Exceptional User Experience with HTML,CSS,JAVASCRIPT in designing the Websites.
+            </p>
+        </p>
+    </div>
+</div>    
+    <hr>
+<!---------------ABOUT------------>
+<div id="about">  
+    <h2>ABOUT ME</h2>
+    <p class="about-content">
+        <pre>                           Hey there! 👋 I'm ,UDAYAGIRI FOWJIYA, a passionate FRONT-END DEVELOPER with
+            an instansible curiosity for crafting delightful digital experiences.web development domain is just 
+            beginning, With one month of immersive experience,I've already dived into the dynamic world of 
+            front-end development, eagerly soaking up knowledge ike a sponge.
+    
+                                  I believe in the power of collaboration and continuous improvement. I'm excited to 
+            connect with fellow developers, designers, and creators to exchange ideas, share thoughts, and embark 
+            on collaborative projects that push the boundaries of what's possible. So here's to the journey ahead
+            filled with endless possibilities, exciting challenges, and countless opportunities to make a meaningful
+            impact through the art of front-end development.</pre>
+    
+    </p>
+</div>
+<hr>
+<!---------------SKILLS----------->
+<div id="skills">
+  <h2>SKILLS</h2>
+    <div class="skills-content">
+        <div class="technical-skills">
+               <ul>
+                  <span>TECHNICAL SKILLS</span>
+                  <br>
+                    <ul class="technicalskills-content">
+                       <li>HTML</li>
+                       Intemediate
+                       <br>
+                       <br>
+                       <li>CSS</li>
+                       Intermediate
+                       <br>
+                       <br>
+                       <li>JAVASCRIPT</li>
+                       Basics  
+                       <br>
+                       <br>
+                       <li>C PROGRAMMING</li>
+                       Basics       
+                    </ul>  
+                </ul>      
+        </div>
+        <div class="professional-skills">
+            <ul>
+                <span>PROFESSIONAL SKILLS</span>
+                <br>
+                    <ul class="professionalskills-content">
+                        <li>Communication skills</li>
+                        <br>
+                        <li>Time Management</li>
+                        <br>
+                        <li>Self Motivated</li>
+                        <br>
+                    </ul>    
+            </ul>      
+        </div>  
+    </div>
+</div>     
+<hr>
+<!---------------EXPERIENCE------------> 
+<div id="experience">
+  <h2>EXPERIENCE</h2>
+     <div id="experience-content">
+        <div class="experience-content">
+            <ul>
+                <li>DIGITAL BHEM - Intern</li>
+                    Apr 10 2024 - May 10 2024
+                    Web Development - Front End Development
+                    <br>
+                       <ul class="task-list">
+                           <li>Calculator</li>
+                           <li>Hotel Booking Registration Form</li>
+                           <li>Stopwatch</li>
+                       </ul>           
+            </ul>
+        </div>        
+    </div>    
+</div>    
+<hr>
+<!---------------EDUCATION------------> 
+<div id="education"> 
+  <h2>EDUCATION</h2>
+    <div class="education-content">
+        <div class="btech">
+               <ul>
+                  <span>B.TECH-CSE</span>
+                  <br>
+                    <ul class="btech-content">
+                       Sri Sai Institute of Technology & Science
+                       <br>
+                       2021-2025
+                      <br>
+                       81%
+                    </ul>  
+                </ul>      
+        </div>
+        <div class="Intermediate">
+            <ul>
+                <span>INTERMEDIATE-MPC</span>
+                <br>
+                    <ul class="intermediate-content">ANM & BR Junior College
+                        <br>
+                        2019-2021
+                        <br>
+                        90.4%
+                    </ul>    
+            </ul>      
+        </div>
+        <div class="ssc">
+            <ul>
+                <span>SSC</span>
+                <br>
+                    <ul class="ssc-content">Sri Raju High School
+                        <br>
+                        2018-2019
+                        <br>
+                        CGPA - 8.8
+                    </ul>    
+            </ul>
+        </div>           
+    </div>
+</div>    
+<hr>
+<!---------------CONTACT------------> 
+<div id="contact">
+  <h2>CONTACT ME</h2>
+    <p id="content">You can contact me through the following social media</p>
+        <h3 class="social-media">SOCIAL MEDIA</h3>
+         <a href="https://www.linkedin.com/in/fowjiya-udayagiri-4244332b3"><i class="fa-brands fa-linkedin"></i></a>
+         <a href="https://github.com/UdayagiriFowjiya/Bharat-intern"><i class="fa-brands fa-square-github" id="github"></i></a>
+
+</div>
+<div class="copyright">
+    <p> copyright <i class="fa-regular fa-copyright"></i> made by Udayagiri Fowjiya 2024</p>
+</div> 
+
+  
+</body>
+</html>
